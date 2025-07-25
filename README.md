@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SorcerousSyntax
 - 👀 I’m interested in : Programming
 - 🌱 I’m currently learning : Data Science
-<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me : cgharsh6750@gmail.com
 - 😄 Pronouns: He/Him/His
-
+<!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
 SorcerousSyntax/SorcerousSyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
