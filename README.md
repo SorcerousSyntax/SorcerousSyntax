@@ -22,9 +22,9 @@
 
 <p align="center">
   <img height="180em" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&cache_seconds=1800" />
+    src="https://github-readme-stats.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26&rank_icon=github" />
   <img height="180em" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=1a1b26&cache_seconds=1800" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=1a1b26" />
 </p>
 
 <p align="center">
