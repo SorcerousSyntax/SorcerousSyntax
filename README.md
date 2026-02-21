@@ -32,7 +32,7 @@
 
 ## 🔥 Contribution Graph
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SorcerousSyntax&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SorcerousSyntax&theme=dracula" />
 </p>
 
 ---
