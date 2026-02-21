@@ -11,6 +11,12 @@
 - ⚡ Fun fact : I don't ship average — I ship polished.
 
 ---
+## 🏙️ 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
+---
 
 ## 🛠 Tech Stack
 <p align="left">
@@ -35,12 +41,7 @@
 </p>
 
 ---
-## 🏙️ 3D Contribution Graph
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
----
 
 ## 🐍 Contribution Snake
 <p align="center">
