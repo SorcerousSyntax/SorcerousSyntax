@@ -19,17 +19,15 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
     
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="180em" alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </p>
-
 <p align="center">
-  <img
+  <img alt="GitHub Streak Stats"
     src="https://streak-stats.demolab.com?user=SorcerousSyntax&theme=dracula&hide_border=true" />
 </p>
 
