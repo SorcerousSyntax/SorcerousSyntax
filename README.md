@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=11&height=160&section=header&text=SorcerousSyntax&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Crafting%20spells%20in%20code%20%E2%9C%A8&descAlignY=68&descSize=16" width="100%"/>
 <h1 align="center">Hi 👋, I'm Harsh Tevatia</h1>
 <h3 align="center">Full Stack Developer | Building Premium Experiences</h3>
 
@@ -47,3 +48,4 @@
 <a href="https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/harsh-tevatia-0b8592289/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/[YOUR_LINK](https://www.instagram.com/ig_choudharyharsh/)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=11&height=100&section=footer" width="100%"/>
