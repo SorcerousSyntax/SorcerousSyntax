@@ -22,14 +22,15 @@
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=SorcerousSyntax&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
     
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorcerousSyntax&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SorcerousSyntax&theme=dracula&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=SorcerousSyntax&theme=dracula&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Graph
