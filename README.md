@@ -53,6 +53,6 @@
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/harsh-tevatia-0b8592289/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/[YOUR_LINK](https://www.instagram.com/ig_choudharyharsh/)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ig_choudharyharsh/)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=100&section=footer" width="100%"/>
